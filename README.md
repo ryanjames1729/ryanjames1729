@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan James</h1>
 <h3 align="center">A PK-12 Technology Coordinator and Aspiring Web Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanjames1729" alt="ryanjames1729" /></a> </p>
 
 - 🔭 I’m currently working on **How-Tos for My School**
 
