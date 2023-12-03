@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.ryan-james.dev/](https://www.ryan-james.dev/)
 
-- ⚡ Fun fact **I'm a mountain ultra-runner in the Blue Ridge Mountains of NC**
+- ⚡ Fun fact: **I'm a mountain ultra-runner in the Blue Ridge Mountains of NC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
