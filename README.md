@@ -2,15 +2,17 @@
 <h3 align="center">A PK-12 Technology Coordinator and Aspiring Web Dev</h3>
 
 
-- 🔭 I’m currently working on **How-Tos for My School**
+- 🔭 I’m currently working on **House System Site for my School**
 
-- 🌱 I’m currently learning **astro.build**
+- 🌱 I’m currently learning **upgrading to NextJS 13**
 
-- 👨‍💻 All of my projects are available at [https://www.ryan-james.dev/projects](https://www.ryan-james.dev/projects)
+- 👨‍💻 All of my projects are available at [https://www.ryan-james.dev/portfolio](https://www.ryan-james.dev/portfolio)
 
 - 📝 I regularly write articles on [https://www.ryan-james.dev/](https://www.ryan-james.dev/)
 
-- ⚡ Fun fact: **I'm a mountain ultra-runner in the Blue Ridge Mountains of NC**
+- ⚡ Fun fact: **I'm a mountain athlete (running, biking, climbing) in the Blue Ridge Mountains of NC**
+
+- 😱 I got a page on **omg.lol**: [https://ryan-james.omg.lol](https://ryan-james.omg.lol)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
