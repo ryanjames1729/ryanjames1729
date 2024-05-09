@@ -2,9 +2,9 @@
 <h3 align="center">A PK-12 Technology Coordinator and Aspiring Web Dev</h3>
 
 
-- 🔭 I’m currently working on **House System Site for my School**
+- 🔭 I’m currently working on a **Collaborative ToDo App for Teachers and Students** using Liveblocks!
 
-- 🌱 I’m currently learning **upgrading to NextJS 13**
+- 🌱 I’m currently learning **Liveblocks.io**
 
 - 👨‍💻 All of my projects are available at [https://www.ryan-james.dev/portfolio](https://www.ryan-james.dev/portfolio)
 
